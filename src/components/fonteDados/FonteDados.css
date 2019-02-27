@@ -1,0 +1,63 @@
+label {
+    margin-bottom: 0;
+  }
+  
+  .ui-selectbutton, .ui-calendar {
+    padding-left: 0 !important;
+    border: none;
+  }
+  .ui-calendar .ui-inputtext{
+    width: 100%;
+  }
+  
+  .ui-multiselect, .ui-dropdown {
+    margin-top: 4px;
+    padding: 0 !important;
+    width: 100% !important;
+    margin-bottom: 0;
+  }
+  
+  .ui-multiselect, .ui-dropdown {
+    margin-top: 0px;
+  }
+  
+  .semBorda {
+    border: none !important;
+  }
+  
+  .ui-spinner {
+      display: table !important;
+      width: 100% !important;
+  }
+
+  .ui-spinner-input {
+    padding-right: 0;
+    width: 100%;
+  }
+  
+  input[type=password] {
+    height: 31px;
+  }
+
+  .badge-processado {
+    background-color: #2399e5;
+    color: #fff;
+  }
+
+  .badge-ja-coletado {
+    background-color: #f0ad4e;
+    color: #fff;
+  }
+
+  .badge-sucesso {
+    background-color: #5cb85c;
+    color: #fff;
+  }
+
+  .badge-falha {
+    background-color: #d9534f;
+    color: #fff;
+  }
+  
+
+  
